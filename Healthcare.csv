@@ -1,0 +1,11 @@
+patient_id,age,gender,BloodPressure,sugarLevel,CholesterolLevel,HeartRate,conditionp,Treatment,Cost,Outcome
+1,45,F,120/80,90,180,72,Diabetes,Insulin,200,Improved
+2,60,M,140/90,110,190,78,Hypertension,Medication,150,Stable
+3,50,F,130/85,95,175,70,Diabetes,Insulin,210,Improved
+4,70,M,150/95,115,200,80,Hypertension,Medication,160,Stable
+5,65,F,135/88,100,185,76,Diabetes,Diet,100,Improved
+6,55,M,125/82,92,170,74,Hypertension,Medication,140,Stable
+7,75,F,160/100,120,210,82,Hypertension,Medication,170,Stable
+8,40,M,110/75,85,165,68,Diabetes,Diet,90,Improved
+9,68,F,145/92,105,195,79,Hypertension,Medication,155,Stable
+10,50,M,130/80,98,175,71,Diabetes,Insulin,200,Improved
